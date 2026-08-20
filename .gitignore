@@ -1,0 +1,36 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+*.mat
+*.mex*
+*.slxc
+slprj/
+sccprj/
+codegen/
+octave-workspace
+
+# MATLAB session / editor state
+.SimulinkProject/
+resources/project/
+*.mlproj
+prefdir/
+
+# Generated output (figures under figures/ are committed deliberately;
+# anything dropped elsewhere is not)
+output/
+results/
+*.fig
+*.eps
+*.pdf
+!docs/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
