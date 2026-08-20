@@ -117,7 +117,7 @@ members and have been stripped, not published. They are here only because the
 transmit chain calls them.
 
 Several files under [`framework/`](framework/) are course-provided scaffolding
-that I did not write. [NOTICE.md](NOTICE.md) states file by file what is mine,
+that I did not write or edited. [NOTICE.md](NOTICE.md) states file by file what is mine,
 what is a partner's, and what came with the assignment. The MIT licence applies
 to my own contributions.
 
